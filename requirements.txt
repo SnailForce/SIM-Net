@@ -1,0 +1,9 @@
+dominate
+visdom
+matplotlib
+numpy
+python-dateutil
+pytz
+PyYAML
+torch==1.8.0
+torchvision
