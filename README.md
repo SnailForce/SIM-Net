@@ -94,9 +94,9 @@ In addition, since our method does not care about specific semantic information,
 ## Dataset
 Will bre released soon.
 
-## Acknowledgments
-The code borrows from [segment anything](https://github.com/facebookresearch/segment-anything), [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model), [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Synchronized-BatchNorm-PyTorch](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch).
-The demo code borrows from [SEAN](https://github.com/ZPdesu/SEAN) and will be released soon.
+## License
+All rights reserved. Licensed under the MIT License.
+The code is released for academic research use only.
 
 ## Citation
 
@@ -110,3 +110,8 @@ if you use this code for your research, please cite our paper.
   year      = {2024}
 }
 ```
+
+## Acknowledgments
+The code borrows from [segment anything](https://github.com/facebookresearch/segment-anything), [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model), [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Synchronized-BatchNorm-PyTorch](https://github.com/vacancy/Synchronized-BatchNorm-PyTorch).
+The demo code borrows from [SEAN](https://github.com/ZPdesu/SEAN) and will be released soon.
+
