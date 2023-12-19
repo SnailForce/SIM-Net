@@ -34,7 +34,7 @@ We recommend to install Pytorch version after `Pytorch 1.8.0`.
 
 ## Inference Using Pretrained Model
 
-Download the pretrained model from [here]() and save them in checkpoints/SIM-Net. Then run the command
+Download the pretrained model from [here](https://drive.google.com/drive/folders/1gGKlXERnRMUcAQXtN5fJhmRcy3jyNLgL?usp=sharing) and save them in checkpoints/SIM-Net. Then run the command
 ``` bash
 python test.py 
        --checkpoints_dir ./checkpoints/ 
